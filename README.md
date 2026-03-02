@@ -113,7 +113,7 @@ Feel free to ask me any questions about MERN stack development | Blockchain Deve
                         3 hrs 43 mins
                     </td>
                     <td>
-                        ██████░░░░&nbsp;&nbsp;(20.01 %)
+                        ██░░░░░░░&nbsp;&nbsp;(20.01 %)
                     </td>
                 </tr>
                 <tr>
