@@ -75,7 +75,7 @@
 
 ## :raised_hands: Let's Learn Together!
 
-Feel free to ask me any questions about MERN stack development | Blockchain Development | GraphQL | Odoo | MySQL
+Feel free to ask me any questions about AI Integrations | Generative AI | Automations | Agentics AI | ChatBots | Full-stack development | Blockchain Development | GraphQL | Odoo | MySQL | Vector DB | SupaBase
 
   </td>
   <td width="50%" valign="top">
