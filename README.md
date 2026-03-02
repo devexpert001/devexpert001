@@ -99,10 +99,21 @@ Feel free to ask me any questions about MERN stack development | Blockchain Deve
                         Javascript
                     </td>
                     <td>
-                        11 hrs 43 mins
+                        11 hrs 31 mins
                     </td>
                     <td>
-                        ██████░░░░&nbsp;&nbsp;(67.01 %)
+                        ██████░░░░&nbsp;&nbsp;(67.07 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=215px;>
+                        Javascript
+                    </td>
+                    <td>
+                        3 hrs 43 mins
+                    </td>
+                    <td>
+                        ██████░░░░&nbsp;&nbsp;(20.01 %)
                     </td>
                 </tr>
                 <tr>
@@ -110,10 +121,10 @@ Feel free to ask me any questions about MERN stack development | Blockchain Deve
                         Typescript
                     </td>
                     <td width=145px;>
-                        3 hrs 8 mins
+                        2 hrs 8 mins
                     </td>
                     <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(17.92 %)
+                        █░░░░░░░░░&nbsp;&nbsp;(10.92 %)
                     </td>
                 </tr>
                 <tr>
@@ -124,7 +135,7 @@ Feel free to ask me any questions about MERN stack development | Blockchain Deve
                         2 hrs 27 mins
                     </td>
                     <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(14.08 %)
+                        █░░░░░░░░░&nbsp;&nbsp;(2.08 %)
                     </td>
                 </tr></table>
   </div>
