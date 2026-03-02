@@ -96,7 +96,7 @@ Feel free to ask me any questions about MERN stack development | Blockchain Deve
 <table>
                 <tr>
                     <td width=215px;>
-                        Javascript
+                        Python
                     </td>
                     <td>
                         11 hrs 31 mins
